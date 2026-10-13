@@ -1,0 +1,3 @@
+Robot Name: Atlas
+Mode: Automatic
+Speed: 15
